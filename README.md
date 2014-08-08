@@ -1,7 +1,7 @@
 Multi4SQ
 ========
 
-In this project was developed some scripts to get data from Foursquare social network using its public API. This is part of my work during my internship at Mitacs Globalink program. This scrips yelds an output with a CSV format with multidimension network as this describe here:
+In this project was developed some scripts to get data from Foursquare social network using its public API. This is part of my work during my internship at Mitacs Globalink program. This scrips yelds an output with a CSV format with multidimension network as this describe here: http://goo.gl/Br70ot
 
 
 NOTE: This is beta version, it's still in tests and require access tokens from Foursquare API and Twitter API. 
